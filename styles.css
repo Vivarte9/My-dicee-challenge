@@ -1,0 +1,55 @@
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-image: url(./images/casino-921339_1280.jpg) ;
+  background-size: cover;
+    height: auto;
+    width: 100%;
+    z-index: -2;;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4e9ecc;
+}
+h2{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4e9ecc;
+  font-style: italic;
+  text-decoration: underline;
+}
+p {
+  font-size: 2rem;
+  color: #4e9ecc;
+  font-family: 'Lobster',
+    cursive;
+  text-decoration: underline;
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Lobster',
+    cursive;
+
+}
